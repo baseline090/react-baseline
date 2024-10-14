@@ -1,0 +1,16 @@
+.aboutContainer {
+  padding: 16px; 
+  margin-top: 60px;
+  background-color: black;
+
+}
+
+
+@media (min-width: 768px) {
+  .aboutContainer {
+    padding: 48px; 
+  }
+}
+
+
+
